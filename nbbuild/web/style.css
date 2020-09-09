@@ -1,0 +1,20 @@
+.bg{
+    background: #ff9800!important;
+}
+
+.list-group-item.active{
+     background: #ff9800!important;
+     border-color: #ff9800!important;
+}
+
+.discount-label{
+    font-size: 10px;
+    font-style: italic;
+}
+
+.product-card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+
